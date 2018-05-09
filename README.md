@@ -56,4 +56,4 @@
 * Από έτοιμες βιβλιοθήκες, χρησιμοποίησα τις εξής:
   * 1) D3 της JavaScript.
   * 2) [ResponsiveVoice](http://code.responsivevoice.org/responsivevoice.js) (JavaScript) για text-to-speech.
-  * 3) [βιβλιοθήκη](https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js) για το text animation (Βλ. [ιστοσελίδα participants](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
+  * 3) [Bιβλιοθήκη](http://tobiasahlin.com/moving-letters/) για το text animation (Βλ. [ιστοσελίδα participants](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
