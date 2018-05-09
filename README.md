@@ -81,3 +81,13 @@
 * Προσθήκη νέας ομαδοποίησης δεδομένων, Split by amount, όπου τα ποσά χωρίζονται σε 5 κατηγορίες, a) έως 10,000£, b) έως 50,000£, c) έως 100,000£, d) έως 500,000£ και e) πάνω από 500,000£.
 
 ![3](https://user-images.githubusercontent.com/22644519/39820078-a553e478-53ad-11e8-882d-a09ac2d6690f.png)
+
+* Προσθήκη αναζήτησης των στοιχείων του δωρητή στο Google, πατώντας πάνω στην αντίστοιχη μπάλα.
+
+* Δημιουργία αρχείου 2015185.csv.
+
+![4](https://user-images.githubusercontent.com/22644519/39820351-4548fab8-53ae-11e8-8555-3e53f01bf6fa.png)
+(screenshot μετά από την παράδοση του β' παραδοτέου)
+
+* Αποστολή 5 φωτογραφιών διαθέσιμων δωρητών, a) The Harrodian School, b) Kerry London, c) CTF Partners, d) Allam Marine, e) Echo Reasearch
+
