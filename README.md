@@ -68,4 +68,4 @@
 
 * Τροποποίηση των κωδικών rgba και των HEX, για αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
 
-https://raw.githubusercontent.com/p15tsiv/FinalReportSW/master/1.png
+![image1]https://raw.githubusercontent.com/p15tsiv/FinalReportSW/master/1.png
