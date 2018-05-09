@@ -102,7 +102,7 @@
 
 ![6](https://user-images.githubusercontent.com/22644519/39821458-f778d17a-53b0-11e8-8c4b-76a28594b8d5.png)
 
-Το αποτέλεσμα φαίνεται στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/)) των Credits.
+Το αποτέλεσμα φαίνεται στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) των Credits.
 
 #### Βιβλιοθήκες και πηγές κώδικα
 
