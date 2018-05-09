@@ -25,8 +25,7 @@
   * Σύνοψη
   * Εισαγωγή
   * Aνάλυση σχετικών έργων και εργαλείων
-  * Mέθοδος και τεχνικές ανάπτυξης
-  * Aποτελέσματα
+  * Mέθοδος και τεχνικές ανάπτυξης & Αποτελέσματα
     * Παραδοτέο 1
     * Παραδοτέο 2
   * Συμπεράσματα
@@ -58,11 +57,11 @@
   * 2) [ResponsiveVoice](http://code.responsivevoice.org/responsivevoice.js) (JavaScript) για text-to-speech.
   * 3) [Bιβλιοθήκη](http://tobiasahlin.com/moving-letters/) για το text animation στην ([ιστοσελίδα participants](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
 
-## Mέθοδος και τεχνικές ανάπτυξης
+## Mέθοδος και τεχνικές ανάπτυξης & Αποτελέσματα
 
 #### Παραδοτέο 1 
 
-* [Ιστοσελίδα εφαρμογής](https://p15tsiv.github.io/D3js-uk-political-donations/)
+* Link Παραδοτέου 1 (branch): https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo1
 
 * Αντικατάσταση της κατάληξης full-viz.html από το URL https://github.com/p15tsiv/D3js-uk-political-donations/full-viz.html με το index.html, έτσι ώστε να εμφανίζεται το URL https://github.com/p15tsiv/D3js-uk-political-donations.
 
@@ -93,7 +92,17 @@
 
 #### Παραδοτέο 2 
 
-* Εμφάνιση και δυναμική επέκταση λίστας των εικόνων των δωρητών στους οποίους έκανε hover ο χρήστης:
+* Link Παραδοτέου 2 (branch): https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo2
+
+* Eμφανιση και δυναμική επάκταση της σειράς των εικόνων με τους δωρητές πάνω από τους οποίους πέρασε ο δείκτης του ποντικιού στο γράφημα.
 
 ![5](https://user-images.githubusercontent.com/22644519/39820750-383c6674-53af-11e8-86ed-eeae9f874ef6.png)
+
+* Mετατρoπή του αρχείου index.html από το φάκελο participants στη δεσμευμένη μου θέση (Position #021), προσθέτοντας το username μου και το url για το avatar μου και, έπειτα, xρησιμοποιώντας την ήδη υπάρχουσα βιβλιοθήκη και τον open source κώδικα για text animation που βρήκα.
+
+![6](https://user-images.githubusercontent.com/22644519/39821458-f778d17a-53b0-11e8-8c4b-76a28594b8d5.png)
+
+Το αποτέλεσμα φαίνεται στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/)) των Credits.
+
+
 
