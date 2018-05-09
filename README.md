@@ -56,4 +56,16 @@
 * Από έτοιμες βιβλιοθήκες, χρησιμοποίησα τις εξής:
   * 1) D3 της JavaScript.
   * 2) [ResponsiveVoice](http://code.responsivevoice.org/responsivevoice.js) (JavaScript) για text-to-speech.
-  * 3) [Bιβλιοθήκη](http://tobiasahlin.com/moving-letters/) για το text animation (Βλ. [ιστοσελίδα participants](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
+  * 3) [Bιβλιοθήκη](http://tobiasahlin.com/moving-letters/) για το text animation στην ([ιστοσελίδα participants](https://ioniodi.github.io/D3js-uk-political-donations/participants/))
+
+## Mέθοδος και τεχνικές ανάπτυξης
+
+#### Παραδοτέο 1 
+
+* [Ιστοσελίδα εφαρμογής](https://p15tsiv.github.io/D3js-uk-political-donations/)
+
+* Αντικατάσταση της κατάληξης full-viz.html από το URL https://github.com/p15tsiv/D3js-uk-political-donations/full-viz.html με το index.html, έτσι ώστε να εμφανίζεται το URL https://github.com/p15tsiv/D3js-uk-political-donations.
+
+* Τροποποίηση των κωδικών rgba και των HEX, για αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
+
+https://raw.githubusercontent.com/p15tsiv/FinalReportSW/master/1.png
