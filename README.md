@@ -91,3 +91,9 @@
 
 * Αποστολή 5 φωτογραφιών διαθέσιμων δωρητών, a) The Harrodian School, b) Kerry London, c) CTF Partners, d) Allam Marine, e) Echo Reasearch
 
+#### Παραδοτέο 2 
+
+* Εμφάνιση και δυναμική επέκταση λίστας των εικόνων των δωρητών στους οποίους έκανε hover ο χρήστης:
+
+![5](https://user-images.githubusercontent.com/22644519/39820750-383c6674-53af-11e8-86ed-eeae9f874ef6.png)
+
