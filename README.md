@@ -11,7 +11,7 @@
 #### Σύνδεσμοι
 ##### Link ιστοσελίδας της εφαρμογής μου: [Link εκτελέσιμου](https://p15tsiv.github.io/D3js-uk-political-donations/)
 
-##### Αποθετήριο του κώδικα της εφαρμογής (master branch) \*: [Link αποθετηρίου κώδικα](https://github.com/p15tsiv/D3js-uk-political-donations)
+##### Αποθετήριο του κώδικα της εφαρμογής (master branch) \: [Link αποθετηρίου κώδικα](https://github.com/p15tsiv/D3js-uk-political-donations)
 
 ##### Link στο κλαδί του κώδικα που αντιστοιχεί στο Παραδοτέο 1(Paradoteo-1 branch) \: [Link branch κώδικα Παραδοτέο 1](https://github.com/p15tsiv/D3js-uk-political-donations/tree/Paradoteo1)
 
