@@ -108,7 +108,7 @@
 
 * [D3.js](https://d3js.org/).
 * [ResponsiveVoice](http://code.responsivevoice.org/responsivevoice.js) (JavaScript) και [API](https://responsivevoice.org/api/) για text-to-speech.
-* [Bιβλιοθήκη](https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js) και [κώδικας](http://tobiasahlin.com/moving-letters/#7) για το text animation.
+* [Kώδικας](http://tobiasahlin.com/moving-letters/#7) για το text animation.
 * Κωδικοί για Hex και RBG [κωδικοί χρωμάτων](https://htmlcolorcodes.com/).
 * [Zoom on hover CSS](https://www.w3schools.com/howto/howto_css_zoom_hover.asp).
 * [.addClass() documentation](https://api.jquery.com/addclass/).
